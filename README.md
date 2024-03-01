@@ -4,8 +4,7 @@
 * Performance
 * Servers
 * Scripting
-* Juggling
-* Creating art (poetry)
+* Art
 ### Happy to present
 1. [brick_bird](https://github.com/Siiir/brick_bird) – my 1st playable, cross-platform game, programmed in Rust.
 2. [bevy_fancy_cursor](https://github.com/Siiir/bevy_fancy_cursor) – my 1st project to score stars. Written for bevy-engine community.
