@@ -10,4 +10,4 @@
    [Play here](https://siiir.github.io/brick_bird/) **Note: Chrome browser higly recommended** for playing, due to perfomance.
 2. [bernoulli](https://github.com/Siiir/Bernoulli) – my most interesting & creative calculator (**performs advanced math INCREADIBLY FAST**). It is specialized in **partial sums**.
 3. [bevy_fancy_cursor](https://github.com/Siiir/bevy_fancy_cursor) – my 1st project to score stars. Written for bevy-engine community.
-4. [ML projects](https://github.com/Siiir/ML) – a compilation of my **
+4. [ML projects](https://github.com/Siiir/ML) – a compilation of my **Machine Learning projects**
