@@ -1,18 +1,21 @@
-### Interested in:
+### Interested mainly in:
 * Linux
 * Rust
 * Performance
 * Servers
-* Scripting
+* ML
 * Art
 
 ### Happy to present
-1. [Game dev](https://github.com/Siiir/game_dev) – my **game dev projects** including games, plugins, simulations
-2. [bernoulli](https://github.com/Siiir/Bernoulli) – my most interesting & creative calculator using **own optimizations** (**performs advanced math INCREADIBLY FAST**). It is specialized in partial sums.
-4. [ML projects](https://github.com/Siiir/ML) – my **Machine Learning projects**
-5. [Web backends](https://github.com/Siiir/web_backend) – my **Web+ backends**
+1. [Game dev](https://github.com/Siiir/game_dev) – my **game dev projects** including games, plugins, simulations.
+2. [Algorithms](https://github.com/Siiir/algorithms) – my projects that focus on **solving math/algorithmic problems**.
+4. [ML projects](https://github.com/Siiir/ML) – my **Machine Learning projects** including custom low-level algorithms.
+5. [Web backends](https://github.com/Siiir/web_backend) – my **Web+ backends**. Includes servers, (micro)services.
 
 ### Want to see how I use specific tech?
 Click on one of the following:
-[Java](https://github.com/Siiir/java)
-[Python3](https://github.com/Siiir/python3)
+[Java](https://github.com/Siiir/java),
+[C#](https://github.com/Siiir/csharp),
+[Unity](https://github.com/Siiir/unity),
+[Python3](https://github.com/Siiir/python3) ...  
+**I know many other technologies** that I haven't yet covered/presented.
