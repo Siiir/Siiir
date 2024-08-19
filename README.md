@@ -9,8 +9,8 @@ Click on one of the following:
 [☕ Java](https://github.com/Siiir/java),
 [🪟 C#](https://github.com/Siiir/csharp),
 [🕹️  Unity](https://github.com/Siiir/unity),
-[🐍 Python3](https://github.com/Siiir/python3) ...  
+[🐍 Python3](https://github.com/Siiir/python3).  
 **I know many other technologies** that I haven't yet covered/presented** 🚀.
 
-### 📌 My main interest:
+### 📌 My main interests:
 🖧 Servers, 🐧 Linux, 🦀 Rust, 🤖 ML, ⚡ Performance, 🎨 Art
