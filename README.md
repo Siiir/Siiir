@@ -1,11 +1,3 @@
-### Interested mainly in:
-* Linux
-* Rust
-* Performance
-* Servers
-* ML
-* Art
-
 ### Happy to present
 1. [Game dev](https://github.com/Siiir/game_dev) – my **game dev projects** including games, plugins, simulations.
 2. [Algorithms](https://github.com/Siiir/algorithms) – my projects that focus on **solving math/algorithmic problems**.
@@ -19,3 +11,11 @@ Click on one of the following:
 [Unity](https://github.com/Siiir/unity),
 [Python3](https://github.com/Siiir/python3) ...  
 **I know many other technologies** that I haven't yet covered/presented.
+
+### Main interest:
+* Servers
+* Linux
+* Rust
+* ML
+* Performance
+* Art
