@@ -1,4 +1,4 @@
-### 😄 Happy to present
+### 💼 Happy to present
 1. [🎮 Game dev](https://github.com/Siiir/game_dev) – my **game dev projects** including 🎲 games, 🔌 plugins, and 🌀 simulations.
 2. [📊 Algorithms](https://github.com/Siiir/algorithms) – my projects that focus on **🧩 solving math/algorithmic problems**.
 3. [🤖 ML projects](https://github.com/Siiir/ML) – my **Machine Learning projects** including custom 🧠 low-level algorithms.
@@ -12,5 +12,5 @@ Click on one of the following:
 [🐍 Python3](https://github.com/Siiir/python3) ...  
 **I know many other technologies** that I haven't yet covered/presented** 🚀.
 
-### 🎯 My main interest:
+### 📌 My main interest:
 🖧 Servers, 🐧 Linux, 🦀 Rust, 🤖 ML, ⚡ Performance, 🎨 Art
