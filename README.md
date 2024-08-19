@@ -12,10 +12,5 @@ Click on one of the following:
 [Python3](https://github.com/Siiir/python3) ...  
 **I know many other technologies** that I haven't yet covered/presented.
 
-### Main interest:
-* Servers
-* Linux
-* Rust
-* ML
-* Performance
-* Art
+### My main interest:
+Servers, Linux, Rust, ML, Performance, Art
